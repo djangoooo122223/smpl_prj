@@ -1,0 +1,4 @@
+example.txt:
+Line 1: This is some content.
+Line 2: Developer 2 made conflicting changes.
+Line 3: More content.
